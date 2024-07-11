@@ -1,5 +1,11 @@
 # Mausam Project Readme
 
+https://mausambyaman.vercel.app/
+
+
+![image](https://github.com/user-attachments/assets/a631b452-7cb3-41cc-b72d-0cf49fe9a470)
+
+
 ## Overview
 
 The Mausam project is a web application designed to provide real-time weather information using the OpenWeather API. Developed with HTML, CSS, and JavaScript, this application offers a user-friendly interface for retrieving weather details based on location input.
