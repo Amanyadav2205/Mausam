@@ -79,7 +79,8 @@ The Mausam project is made possible by integrating the OpenWeather API. Special 
 
 To experience the Mausam application, simply follow the link provided below:
 
-[i-weather-alpha.vercel.app](https://i-weather-alpha.vercel.app)
+Mausam
+(https://mausambyaman.vercel.app/)
 
 Once on the website, you can input a location, click the search button, and access real-time weather information with a dynamic background based on the current climate.
 
